@@ -1,2 +1,2 @@
 # hackerrank
-Nice snipets from hackerank chellanges
+Nice snipets from hackerrank chellanges
